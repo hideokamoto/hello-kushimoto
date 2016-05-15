@@ -1,0 +1,11 @@
+.hello-kushimoto {
+	float: right;
+	padding-right: 15px;
+	padding-top: 5px;
+	margin: 0;
+	font-size: 11px;
+}
+
+#wpbody-content > .wrap > h1 > a {
+	white-space: nowrap;
+}
